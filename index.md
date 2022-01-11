@@ -1,6 +1,6 @@
 ## Welcome to my page! :)
 
-My name is Juan Camilo Cifuentes (JC is easier). I am 24 years old, I was born in **Bogota, Colombia**. Moved to **Mexico** at age 8, and have lived there ever since.
+My name is Juan Camilo Cifuentes (you can call me JC). I am 24 years old, I was born in **Bogota, Colombia**. Moved to **Mexico** at age 8, and have lived there ever since.
 
 I recently graduated from a Bachelors Degree in _Mechatronics Engineering_ in June 2021, at ITESM (Instituto Tecnologico y de Estudios Superiores de Monterrey). 
 
