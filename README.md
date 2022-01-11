@@ -1,2 +1,2 @@
-# About-Me-JuanCamilo
-Just a simple website about myself :)
+# About me-JuanCamilo
+Just a simple website about myself 
