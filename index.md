@@ -8,7 +8,7 @@ I recently graduated from a Bachelors Degree in _Mechatronics Engineering_ in Ju
 
 My main hobby is *golf*. I spend as much time as I can playing and watching golf. The reason for this is that I believe that it is one of the hardest sports created because there are a lot of variables that apply to the game and you can never master it. 
 
-
+![image] (IMG_2181.JPG)
 
 Amnother one of my hobbies is *technology*. I am very passionate about all kinds of technoogy, ranging from cellphones and computers, to smart appliances, all the way to electric cars. I find myself very interested in how the future could be, where tech and automation play a big part of our lives. 
 
