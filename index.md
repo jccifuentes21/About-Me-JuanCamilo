@@ -12,7 +12,7 @@ My main hobby is *golf*. I spend as much time as I can playing and watching golf
 
 
 Amnother one of my hobbies is *technology*. I am very passionate about all kinds of technoogy, ranging from cellphones and computers, to smart appliances, all the way to electric cars. I find myself very interested in how the future could be, where tech and automation play a big part of our lives. I enjoy watching youtube videos of tech, my favorite youtuber for this is Marques Brownlee, or MKBHD
-<img src="https://i.ytimg.com/vi/pkuxIy3kFZM/maxresdefault.jpg" alt="mkbhd" width="200" style="vertical-align:middle"/>
+<img src="https://i.ytimg.com/vi/pkuxIy3kFZM/maxresdefault.jpg" alt="mkbhd" width="400" style="vertical-align:middle"/>
 
 
 Robotics is also one of my passions, this is the reason why I studied my degree in Mechatronics. I was also part of a robotics team from 2014 to 2016.
