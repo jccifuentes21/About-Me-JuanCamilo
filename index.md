@@ -16,6 +16,7 @@ Amnother one of my hobbies is *technology*. I am very passionate about all kinds
 
 
 Robotics is also one of my passions, this is the reason why I studied my degree in Mechatronics. I was also part of a robotics team from 2014 to 2016.
+
 <img src="https://pbs.twimg.com/media/CdB9RRZUMAAFU_0?format=jpg&name=medium" alt="mkbhd" width="400" style="vertical-align:middle"/>
 
 
